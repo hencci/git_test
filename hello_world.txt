@@ -1,0 +1,3 @@
+learning git properly
+I will know git
+I must master git
